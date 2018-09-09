@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "title": "task 1",
+      "completed": true
+    },
+    {
+      "title": "task 2",
+      "completed": false
+    },
+    {
+      "title": "task 3",
+      "completed": false
+    }
+
+  ]
+}
